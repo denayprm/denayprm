@@ -10,10 +10,6 @@
 [![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=denayprm&theme=material-palenight&compact=true&layout=compact)](https://github.com/denayprm/)
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denayprm&show_icons=true&locale=en&layout=compact" alt="denayprm" />
-</p>
-
-<p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denayprm&show_icons=true&locale=en" alt="denayprm" />
 </p>
 
