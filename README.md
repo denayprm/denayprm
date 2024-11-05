@@ -2,10 +2,10 @@
 <h3 align="left">Deni Permana | Jakarta, Indonesia</h3>
 <p align="left">Don't Stop Learning</p>
 
-<h3>🛠️ Languages and Tools</h3>
+<h3>🛠️ Tools</h3>
 <p align="left">
     <a href="https://github.com/denayprm/">
-        <img src="https://skillicons.dev/icons?i=java,python,c,r,vscode,idea,rstudio" alt="My Languages" />
+        <img src="https://skillicons.dev/icons?i=vscode,idea,rstudio" alt="My Tools" />
     </a>
 </p>
 
