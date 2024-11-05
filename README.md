@@ -9,11 +9,11 @@
 
 ### 🛠️ Languages and Tools
 
-![My Languages](https://skillicons.dev/icons?i=java,python,c,r,vscode,idea,rstudio)
+[![My Languages](https://skillicons.dev/icons?i=java,python,c,r,vscode,idea,rstudio)](https://github.com/denayprm/)
 
 ### 📋 Stats
 
-![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=denayprm&theme=material-palenight&compact=true&layout=compact)
+[![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=denayprm&theme=material-palenight&compact=true&layout=compact)](https://github.com/denayprm/)
 
 Thanks for visiting my GitHub profile!
 
