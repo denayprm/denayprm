@@ -1,16 +1,19 @@
-## Hi there 👋
+###  Hi there 👋🏼
 
-<!--
-**denayprm/denayprm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Deni Permana** | **Jakarta, Indonesia**
 
-Here are some ideas to get you started:
+Love and hate relationship with react.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  💻 Tech Stack:
+
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,express,figma)](https://github.com/denayprm/)
+
+###  📋 Stats
+
+[![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=denayprm&theme=material-palenight&compact=true&layout=compact)](https://github.com/denayprm/)
+
+###  ✉ How to reach me
+
+<!--**[My Website](https://plirapli.vercel.app/)** | **[LinkedIn](https://www.linkedin.com/in/mrafli/)** | **[Email](mailto:mrafli.work@gmail.com)**-->
+
+Thank you
