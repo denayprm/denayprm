@@ -12,7 +12,7 @@
 
 ### Languages and Tools
 
-[![My Languages and Tools](https://skillicons.dev/icons?i=java,python,c,r,docker,visual studio code, intellij idea )] (https://github.com/denayprm/)
+![My Languages and Tools](https://skillicons.dev/icons?i=java,python,c,r,docker,visual studio code,)
 
 ###  📋 Stats
 
