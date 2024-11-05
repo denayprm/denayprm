@@ -13,7 +13,9 @@
 
 ### 📋 Stats
 
-[![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=denayprm&theme=material-palenight&compact=true&layout=compact)]
+![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=denayprm&theme=material-palenight&compact=true&layout=compact)
+
+<h3>📋 Stats</h3> <p align="left"> <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=denayprm&theme=material-palenight&compact=true&layout=compact" alt="Top Langs" /> </p>
 
 Thanks for visiting my GitHub profile!
 
