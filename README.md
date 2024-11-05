@@ -2,10 +2,6 @@
 <h3 align="left">Deni Permana | Jakarta, Indonesia</h3>
 <p align="left">Don't Stop Learning</p>
 
-<p align="right">
-    <img src="https://komarev.com/ghpvc/?username=denayprm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 <h3>🛠️ Languages and Tools</h3>
 <p align="left">
     <a href="https://github.com/denayprm/">
@@ -21,6 +17,10 @@
 </p>
 
 <p>Thanks for visiting my GitHub profile!</p>
+
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=denayprm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <!--
 <p>
