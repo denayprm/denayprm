@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="left">Deni Permana | Jakarta, Indonesia</h3>
+<p align="left">Don't Stop Learning</p>
+
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=denayprm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-<p align="left">Don't Stop Learning</p>
 
 <h3>🛠️ Languages and Tools</h3>
 <p align="left">
