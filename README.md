@@ -13,7 +13,7 @@
 
 ### 📋 Stats
 
-[![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=denayprm&theme=material-palenight&compact=true&layout=compact)](https://github.com/denayprm/)
+[![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=denayprm&theme=material-palenight&compact=true&layout=compact)](https://github.com/denayprm/)
 
 Thanks for visiting my GitHub profile!
 
