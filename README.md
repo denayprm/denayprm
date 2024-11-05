@@ -12,7 +12,7 @@
 <h3>📋 Stats</h3>
 <p align="left">
     <a href="https://github.com/denayprm/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denayprm" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denayprm&theme=material-palenight&compact=true&layout=compact" alt="Top Languages" />
     </a>
 </p>
 
