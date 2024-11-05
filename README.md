@@ -20,6 +20,8 @@
     </a>
 </p>
 
+<img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=denayprm&theme=material-palenight&compact=true&layout=compact" alt="Top Langs">
+
 <p>Thanks for visiting my GitHub profile!</p>
 
 <!--
