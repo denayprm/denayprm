@@ -2,12 +2,14 @@
 <h3 align="left">Deni Permana | Jakarta, Indonesia</h3>
 <p align="left">Don't Stop Learning</p>
 
+<!--
 <h3>🛠️ Tools</h3>
 <p align="left">
     <a href="https://github.com/denayprm/">
         <img src="https://skillicons.dev/icons?i=vscode,idea,rstudio" alt="My Tools" />
     </a>
 </p>
+-->
 
 <h3>📋 Stats</h3>
 <p align="left">
